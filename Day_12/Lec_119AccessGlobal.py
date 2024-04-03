@@ -18,7 +18,7 @@ def increase():
 
 #Example 4:
 def increase():
-    global apple += 1         #You can't write like this
+    # global apple += 1         #You can't write like this
     #this will give you an error that line must be seperated
     print(f"value of apple inside the method : {apple}")
 

@@ -14,4 +14,4 @@ def another():
         pineapple = 15
     print(f"Value of banana : {pineapple}")
 
-print(f"Value of banana : {pineapple}")
+# print(f"Value of banana : {pineapple}")

@@ -13,7 +13,7 @@ def another():
     banana = 3
     print(f"Value of banana : {banana}")
 
-print(f"Value of banana : {banana}")
+# print(f"Value of banana : {banana}")
 
 # in the another function, banana == 3 which is in local scope.
 #You can't access the local variable in different method aur in globally, while
